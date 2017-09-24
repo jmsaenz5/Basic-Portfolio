@@ -93,7 +93,7 @@ a:link.high {color: #666666;
     clear: both;
 }
 
-.background {background-image: url(../assets/images/vertical-waves.png);
+.background {background-image: url(../images/vertical-waves.png);
     background-color:#7e9899;
 }
 
@@ -168,5 +168,4 @@ top: 762px;}
 #rock {left: 18px;
 top: 1090px;
 }
-
 
